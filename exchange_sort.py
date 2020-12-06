@@ -6,4 +6,4 @@ for i in range(0,n-1):
             temp=liste[i]
             liste[i]=liste[j]
             liste[j]=temp
-    print(liste)
+print(liste)
